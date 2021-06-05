@@ -5,16 +5,16 @@ Data Visualization Tableau Portfolio
 
 # Analysis Tasks to be Performed:
 
-Use the Saved Sample – Superstore dataset. 
+1.Use the Saved Sample – Superstore dataset. 
 
-Create a bullet chart with Category and Segment dimensions and Sales measures. 
+2.Create a bullet chart with Category and Segment dimensions and Sales measures. 
 
-Blend the data with the Saved Sample - Sales Target data set to bring in the Sales Target measure.
+3.Blend the data with the Saved Sample - Sales Target data set to bring in the Sales Target measure.
 
-Color code the chart to identify Categories and Segments that are above or below target.
+4.Color code the chart to identify Categories and Segments that are above or below target.
 
-Add the year of sales to the view to identify trends and outliers. 
+5.Add the year of sales to the view to identify trends and outliers. 
 
-Add a filter so that the user can select one, more than one, or all years.
+6.Add a filter so that the user can select one, more than one, or all years.
 
-Create a dashboard with this view.
+7.Create a dashboard with this view.
