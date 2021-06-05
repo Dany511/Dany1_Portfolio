@@ -9,7 +9,7 @@ Data Visualization Tableau Portfolio
 
 2.Create a bullet chart with Category and Segment dimensions and Sales measures. 
 
-3.Blend the data with the Saved Sample - Sales Target data set to bring in the Sales Target measure.
+3.Blend the data with the Saved Sample-Sales Target data set to bring in the Sales Target measure.
 
 4.Color code the chart to identify Categories and Segments that are above or below target.
 
