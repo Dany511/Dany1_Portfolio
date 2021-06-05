@@ -18,3 +18,5 @@ Data Visualization Tableau Portfolio
 6.Add a filter so that the user can select one, more than one, or all years.
 
 7.Create a dashboard with this view.
+
+![](/image/Dashboard%201.png)
