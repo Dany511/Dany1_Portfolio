@@ -19,4 +19,4 @@ Data Visualization Tableau Portfolio
 
 7.Create a dashboard with this view.
 
-![](/image/Dashboard%201.png)
+   ![](/image/Dashboard%201.png)
